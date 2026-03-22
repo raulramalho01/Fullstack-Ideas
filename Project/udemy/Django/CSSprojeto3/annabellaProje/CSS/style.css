@@ -1,0 +1,24 @@
+/* selectors */
+
+table {
+    width: 100%;
+}
+
+body {
+    background-color: grey;
+}
+
+/* class */
+    .center {
+        text-align: center;
+    }
+
+    .borda-suave{
+        border-color: black;
+    }
+
+    .justificar-esquerda {
+        width: 60%;
+        margin: 0 auto;
+    }
+/* id's */
