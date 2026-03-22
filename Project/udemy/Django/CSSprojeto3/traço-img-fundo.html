@@ -4,13 +4,26 @@
 <head>
     <meta charset="UTF-8">
     <title>Traço img-fundo</title>
-    <style>
+    <style type="text/css">
 
+        /* selectors */
+        body {
+            background-image: url('yoshi.png');
+            background-repeat: repeat;
+            /* imagem segue a tela */
+            background-attachment: fixed;
+        }
+
+        /* class */
+        .fundo{
+            background-color: green;
+        }
+        /* id's */
     </style>
 </head>
 
 <body>
-    <h1>Inline Styling</h1>
+    <h1 class="fundo">BG/Img Styling</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ornare rutrum tortor in congue. Mauris semper
         nulla risus, eu tincidunt nulla egestas eget. Praesent quis aliquam libero. Fusce tristique auctor nulla a
         facilisis. Pellentesque commodo vulputate tincidunt. Nam sodales urna dolor, in egestas magna efficitur vel.
