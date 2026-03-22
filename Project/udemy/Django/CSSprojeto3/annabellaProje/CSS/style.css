@@ -13,12 +13,12 @@ body {
         text-align: center;
     }
 
-    .borda-suave{
-        border-color: black;
+    .content {
+        width: 60%;
+      
     }
 
-    .justificar-esquerda {
-        width: 60%;
-        margin: 0 auto;
+    .nav-bar{
+        background-color: lightgray;
     }
 /* id's */
