@@ -1,24 +1,30 @@
 /* selectors */
 
 table {
-    width: 100%;
+    width: 60%;
 }
 
 body {
     background-color: grey;
+    width: 60%;
 }
 
+nav {
+    width: 60%;
+}
 /* class */
     .center {
         text-align: center;
     }
 
     .content {
-        width: 60%;
-      
+      background-color: lightgray;
     }
 
     .nav-bar{
-        background-color: lightgray;
+        background-color: darkgray;
+        padding: 35px;
     }
+
+
 /* id's */
