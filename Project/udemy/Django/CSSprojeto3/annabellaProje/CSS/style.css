@@ -12,19 +12,29 @@ body {
 nav {
     width: 60%;
 }
+
 /* class */
-    .center {
-        text-align: center;
-    }
+.center {
+    text-align: center;
+}
 
-    .content {
-      background-color: lightgray;
-    }
+.content {
+    background-color: lightgray;
+}
 
-    .nav-bar{
-        background-color: darkgray;
-        padding: 35px;
-    }
+.nav-bar {
+    background-color: darkgray;
+    padding: 20px;
+}
+
+.content-space {
+    padding: 20px;
+}
+
+.font-style {
+    font-family: Monospace;
+    font-align: left;
+}
 
 
 /* id's */
