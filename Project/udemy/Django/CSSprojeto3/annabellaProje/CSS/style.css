@@ -29,11 +29,12 @@ nav {
 
 .content-space {
     padding: 20px;
+    text-decoration: none;
 }
 
 .font-style {
     font-family: Monospace;
-    font-align: left;
+    text-decoration: none;
 }
 
 
